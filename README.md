@@ -10,10 +10,10 @@ To analyze Twitter data and classify sentiments (Positive, Negative, Neutral) us
 - Built powerful sentiment classifiers using **Bidirectional LSTM** and **GRU** and **RNN**layers.  
 - Evaluated the models with **confusion matrices** and accuracy scores to ensure performance.   
 
-##📊 **Dataset**:  
+## 📊 **Dataset**:  
 Data sourced from Kaggle's Twitter Sentiment Analysis competition, containing real-world tweets labeled with sentiment tags.  
 
-##🛠️ **Technologies Used**:  
+## 🛠️ **Technologies Used**:  
 - Python  
 - NLTK for text preprocessing  
 - TensorFlow/Keras for modeling  
